@@ -1,0 +1,7 @@
+C:\Users\abdul\source\repos\day4\Asssignment6.1\Asssignment6.1\bin\Debug\Asssignment6.1.exe.config
+C:\Users\abdul\source\repos\day4\Asssignment6.1\Asssignment6.1\bin\Debug\Asssignment6.1.exe
+C:\Users\abdul\source\repos\day4\Asssignment6.1\Asssignment6.1\bin\Debug\Asssignment6.1.pdb
+C:\Users\abdul\source\repos\day4\Asssignment6.1\Asssignment6.1\obj\Debug\Asssignment6.1.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\day4\Asssignment6.1\Asssignment6.1\obj\Debug\Asssignment6.1.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\day4\Asssignment6.1\Asssignment6.1\obj\Debug\Asssignment6.1.exe
+C:\Users\abdul\source\repos\day4\Asssignment6.1\Asssignment6.1\obj\Debug\Asssignment6.1.pdb
